@@ -1,0 +1,116 @@
+html {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+h1 {
+    font-size:20px ;
+    padding-top: 30px;
+}
+
+h2{
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+header{
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+nav {
+    font-size: 18px;
+    background-color: rgb(156, 95, 218);
+    padding: 5px;
+    border-top: 1px solid gold;
+    border-bottom: 1px solid gold ;
+    border-width: 3px;
+}
+
+.nav {
+    padding: 20px
+}
+
+p {
+    font-size: 16px;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+.img1 {
+    width:350px;
+    height: auto;
+}
+
+fieldset {
+    margin: 100px;
+    border-width: 5px;
+    border-color: gold;
+    font-size: 16px;
+    background-color: rgb(152, 84, 216);
+}
+
+legend {
+    font-size: 20px;
+    color: gold;
+    padding: 10px;
+}
+
+.name_information {
+    padding: 5px;
+}
+
+.email_address {
+    padding: 5px;
+}
+
+.update_checkbox {
+    padding: 5px;
+}
+
+.email_address {
+    padding: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding:5px;
+}
+
+.list {
+    text-align: center;
+    background-color: rgb(152, 84, 216);
+    border: 3px solid gold;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 5px;
+}
+
+li {
+    margin-left: 40%;
+    padding: 5px;
+    text-align: left;
+}
+
+a {
+    color: gold;
+}
+
+.additional_resource_images {
+    margin: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+span {
+    padding: 20px;
+}
+
+label {
+    color:gold;
+}
+
+.img4 {
+    height: 100px;
+}
